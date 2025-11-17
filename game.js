@@ -1,3 +1,10 @@
+// Configuração da ARC Testnet
+const ARC_RPC = "https://rpc.testnet.arc.network";
+const ARC_CHAIN_ID = 5042002;
+
+// Endereço do contrato USDC da ARC Testnet
+const USDC_ARC = "0x3600000000000000000000000000000000000000";
+
 //---------------------------------------------
 // 1. Conectar à carteira ARC
 //---------------------------------------------
